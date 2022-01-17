@@ -11,6 +11,7 @@ namespace HC_GitHub
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// asfsfhigbdsjsvkl
         [STAThread]
         static void Main()
         {
